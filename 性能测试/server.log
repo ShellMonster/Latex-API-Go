@@ -1,0 +1,24 @@
+{"level":"info","ts":"2025-10-21T12:29:18.471223+08:00","caller":"server/main.go:49","msg":"Rust 渲染器初始化成功，启用真实渲染"}
+{"level":"info","ts":"2025-10-21T12:29:18.472489+08:00","caller":"server/http.go:65","msg":"HTTP 服务启动","listen":":8080"}
+{"level":"info","ts":"2025-10-21T12:29:18.496799+08:00","caller":"server/main.go:49","msg":"Rust 渲染器初始化成功，启用真实渲染"}
+{"level":"info","ts":"2025-10-21T12:29:18.497647+08:00","caller":"server/http.go:65","msg":"HTTP 服务启动","listen":":8080"}
+{"level":"info","ts":"2025-10-21T12:29:18.497847+08:00","caller":"server/main.go:49","msg":"Rust 渲染器初始化成功，启用真实渲染"}
+{"level":"info","ts":"2025-10-21T12:29:18.498325+08:00","caller":"server/http.go:65","msg":"HTTP 服务启动","listen":":8080"}
+{"level":"info","ts":"2025-10-21T12:29:18.500402+08:00","caller":"server/main.go:49","msg":"Rust 渲染器初始化成功，启用真实渲染"}
+{"level":"info","ts":"2025-10-21T12:29:18.501162+08:00","caller":"server/http.go:65","msg":"HTTP 服务启动","listen":":8080"}
+{"level":"info","ts":"2025-10-21T12:29:18.50141+08:00","caller":"server/main.go:49","msg":"Rust 渲染器初始化成功，启用真实渲染"}
+{"level":"info","ts":"2025-10-21T12:29:18.502973+08:00","caller":"server/http.go:65","msg":"HTTP 服务启动","listen":":8080"}
+{"level":"info","ts":"2025-10-21T12:29:18.504391+08:00","caller":"server/main.go:49","msg":"Rust 渲染器初始化成功，启用真实渲染"}
+{"level":"info","ts":"2025-10-21T12:29:18.50477+08:00","caller":"server/http.go:65","msg":"HTTP 服务启动","listen":":8080"}
+{"level":"info","ts":"2025-10-21T12:29:18.50804+08:00","caller":"server/main.go:49","msg":"Rust 渲染器初始化成功，启用真实渲染"}
+{"level":"info","ts":"2025-10-21T12:29:18.508568+08:00","caller":"server/http.go:65","msg":"HTTP 服务启动","listen":":8080"}
+{"level":"info","ts":"2025-10-21T12:29:18.508475+08:00","caller":"server/main.go:49","msg":"Rust 渲染器初始化成功，启用真实渲染"}
+{"level":"info","ts":"2025-10-21T12:29:18.508952+08:00","caller":"server/http.go:65","msg":"HTTP 服务启动","listen":":8080"}
+{"level":"info","ts":"2025-10-21T12:29:18.510208+08:00","caller":"server/main.go:49","msg":"Rust 渲染器初始化成功，启用真实渲染"}
+{"level":"info","ts":"2025-10-21T12:29:18.510491+08:00","caller":"server/http.go:65","msg":"HTTP 服务启动","listen":":8080"}
+{"level":"info","ts":"2025-10-21T12:29:18.512641+08:00","caller":"server/main.go:49","msg":"Rust 渲染器初始化成功，启用真实渲染"}
+{"level":"info","ts":"2025-10-21T12:29:18.512833+08:00","caller":"server/http.go:65","msg":"HTTP 服务启动","listen":":8080"}
+{"level":"info","ts":"2025-10-21T12:29:18.51324+08:00","caller":"server/main.go:49","msg":"Rust 渲染器初始化成功，启用真实渲染"}
+{"level":"info","ts":"2025-10-21T12:29:18.513417+08:00","caller":"server/http.go:65","msg":"HTTP 服务启动","listen":":8080"}
+{"level":"info","ts":"2025-10-21T12:29:51.161873+08:00","caller":"server/main.go:70","msg":"接收到停止信号，开始执行优雅停机流程"}
+{"level":"info","ts":"2025-10-21T12:29:51.363058+08:00","caller":"server/main.go:82","msg":"服务已安全退出"}

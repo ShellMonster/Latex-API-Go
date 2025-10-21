@@ -1,0 +1,6 @@
+./stub.go
+./bench_test.go
+./stub_test.go
+_cgo_gotypes.go
+ffi.cgo1.go
+_cgo_import.go

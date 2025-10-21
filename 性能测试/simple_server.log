@@ -1,0 +1,3 @@
+{"level":"info","ts":"2025-10-21T22:47:36.797951+08:00","caller":"server/main.go:49","msg":"Rust 渲染器初始化成功，启用真实渲染"}
+{"level":"info","ts":"2025-10-21T22:47:36.798874+08:00","caller":"server/http.go:65","msg":"HTTP 服务启动","listen":":8080"}
+{"level":"fatal","ts":"2025-10-21T22:47:36.7994+08:00","caller":"server/main.go:62","msg":"HTTP 服务启动失败","error":"failed to listen: listen tcp4 :8080: bind: operation not permitted"}

@@ -1,0 +1,1 @@
+GET http://127.0.0.1:8080/render?tex=%5Cint_%7B0%7D%5E%7B%5Cinfty%7D%20e%5E%7B-x%5E2%7D%20%5C%2C%20dx%20%3D%20%5Cfrac%7B%5Csqrt%7B%5Cpi%7D%7D%7B2%7D

@@ -1,0 +1,26 @@
+{"level":"info","ts":"2025-10-21T22:37:35.060875+08:00","caller":"server/main.go:49","msg":"Rust 渲染器初始化成功，启用真实渲染"}
+{"level":"info","ts":"2025-10-21T22:37:35.061866+08:00","caller":"server/http.go:65","msg":"HTTP 服务启动","listen":":8080"}
+{"level":"info","ts":"2025-10-21T22:37:35.073412+08:00","caller":"server/main.go:49","msg":"Rust 渲染器初始化成功，启用真实渲染"}
+{"level":"info","ts":"2025-10-21T22:37:35.07388+08:00","caller":"server/http.go:65","msg":"HTTP 服务启动","listen":":8080"}
+{"level":"info","ts":"2025-10-21T22:37:35.074737+08:00","caller":"server/main.go:49","msg":"Rust 渲染器初始化成功，启用真实渲染"}
+{"level":"fatal","ts":"2025-10-21T22:37:35.074956+08:00","caller":"server/main.go:62","msg":"HTTP 服务启动失败","error":"prefork: cannot bind to \":8080\": operation not permitted"}
+{"level":"info","ts":"2025-10-21T22:37:35.075049+08:00","caller":"server/http.go:65","msg":"HTTP 服务启动","listen":":8080"}
+{"level":"fatal","ts":"2025-10-21T22:37:35.075752+08:00","caller":"server/main.go:62","msg":"HTTP 服务启动失败","error":"prefork: cannot bind to \":8080\": operation not permitted"}
+{"level":"info","ts":"2025-10-21T22:37:35.079038+08:00","caller":"server/main.go:49","msg":"Rust 渲染器初始化成功，启用真实渲染"}
+{"level":"info","ts":"2025-10-21T22:37:35.082847+08:00","caller":"server/main.go:49","msg":"Rust 渲染器初始化成功，启用真实渲染"}
+{"level":"info","ts":"2025-10-21T22:37:35.079254+08:00","caller":"server/main.go:49","msg":"Rust 渲染器初始化成功，启用真实渲染"}
+{"level":"info","ts":"2025-10-21T22:37:35.079364+08:00","caller":"server/main.go:49","msg":"Rust 渲染器初始化成功，启用真实渲染"}
+{"level":"info","ts":"2025-10-21T22:37:35.08309+08:00","caller":"server/http.go:65","msg":"HTTP 服务启动","listen":":8080"}
+{"level":"info","ts":"2025-10-21T22:37:35.081762+08:00","caller":"server/main.go:49","msg":"Rust 渲染器初始化成功，启用真实渲染"}
+{"level":"info","ts":"2025-10-21T22:37:35.080551+08:00","caller":"server/main.go:49","msg":"Rust 渲染器初始化成功，启用真实渲染"}
+{"level":"info","ts":"2025-10-21T22:37:35.083265+08:00","caller":"server/http.go:65","msg":"HTTP 服务启动","listen":":8080"}
+{"level":"info","ts":"2025-10-21T22:37:35.084076+08:00","caller":"server/main.go:49","msg":"Rust 渲染器初始化成功，启用真实渲染"}
+{"level":"info","ts":"2025-10-21T22:37:35.089953+08:00","caller":"server/http.go:65","msg":"HTTP 服务启动","listen":":8080"}
+{"level":"info","ts":"2025-10-21T22:37:35.090014+08:00","caller":"server/http.go:65","msg":"HTTP 服务启动","listen":":8080"}
+{"level":"info","ts":"2025-10-21T22:37:35.090087+08:00","caller":"server/http.go:65","msg":"HTTP 服务启动","listen":":8080"}
+{"level":"info","ts":"2025-10-21T22:37:35.090123+08:00","caller":"server/http.go:65","msg":"HTTP 服务启动","listen":":8080"}
+{"level":"fatal","ts":"2025-10-21T22:37:35.090069+08:00","caller":"server/main.go:62","msg":"HTTP 服务启动失败","error":"prefork: cannot bind to \":8080\": operation not permitted"}
+{"level":"fatal","ts":"2025-10-21T22:37:35.090166+08:00","caller":"server/main.go:62","msg":"HTTP 服务启动失败","error":"prefork: cannot bind to \":8080\": operation not permitted"}
+{"level":"fatal","ts":"2025-10-21T22:37:35.090223+08:00","caller":"server/main.go:62","msg":"HTTP 服务启动失败","error":"prefork: cannot bind to \":8080\": operation not permitted"}
+{"level":"fatal","ts":"2025-10-21T22:37:35.090251+08:00","caller":"server/main.go:62","msg":"HTTP 服务启动失败","error":"prefork: cannot bind to \":8080\": operation not permitted"}
+{"level":"fatal","ts":"2025-10-21T22:37:35.091905+08:00","caller":"server/main.go:62","msg":"HTTP 服务启动失败","error":"exit status 1"}
